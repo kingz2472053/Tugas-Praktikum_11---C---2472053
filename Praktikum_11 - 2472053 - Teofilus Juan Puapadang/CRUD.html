@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Manajemen Produk</title>
+  <link href="CRUD.CSS" rel="stylesheet">
+</head>
+<body>
+
+<form id="productForm">
+  <input type="hidden" id="productId">
+  <div class="input-row">
+    <input type="text" id="nama" placeholder="Nama Produk">
+    <input type="number" id="harga" placeholder="Harga (Rp)">
+    <input type="number" id="stok" placeholder="Stok">
+  </div>
+  <textarea id="deskripsi" placeholder="Deskripsi Produk"></textarea>
+  <button type="submit" class="btn-add" id="submitBtn">Tambah Produk</button>
+</form>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Nama Produk</th>
+      <th>Harga (Rp)</th>
+      <th>Deskripsi</th>
+      <th>Stok</th>
+      <th>Aksi</th>
+    </tr>
+  </thead>
+  <tbody id="produkTable">
+    <tr>
+      <td colspan="6">Tidak ada produk</td>
+    </tr>
+  </tbody>
+</table>
+
+<script src="CRUD.JS"></script>
+</body>
+</html>

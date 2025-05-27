@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "description": "Kopi hitam pekat dengan rasa yang kuat dan bold",
+    "price": "Rp 18.000",
+    "image": "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?w=300&h=240&fit=crop&crop=center"
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "description": "Perpaduan espresso, susu panas, dan busa susu yang sempurna",
+    "price": "Rp 25.000",
+    "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=300&h=240&fit=crop&crop=center"
+  },
+  {
+    "id": 3,
+    "name": "Latte",
+    "description": "Espresso dengan banyak susu, rasa lembut dan creamy",
+    "price": "Rp 24.000",
+    "image": "https://images.unsplash.com/photo-1561047029-3000c68339ca?w=300&h=240&fit=crop&crop=center"
+  },
+  {
+    "id": 4,
+    "name": "Cold Brew",
+    "description": "Kopi diseduh dingin selama 12 jam, rasa smooth dan ringan",
+    "price": "Rp 28.000",
+    "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?w=300&h=240&fit=crop&crop=center"
+  },
+  {
+    "id": 5,
+    "name": "Americano",
+    "description": "Espresso ditambah air panas, cita rasa yang bold namun ringan",
+    "price": "Rp 20.000",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=300&h=240&fit=crop&crop=center"
+  }
+]

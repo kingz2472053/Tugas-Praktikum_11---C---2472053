@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nama": "Produk A",
+    "harga": 15000,
+    "stok": 5,
+    "deskripsi": "Contoh produk A"
+  },
+  {
+    "id": 2,
+    "nama": "Produk B",
+    "harga": 20000,
+    "stok": 8,
+    "deskripsi": "Contoh produk B"
+  }
+]
